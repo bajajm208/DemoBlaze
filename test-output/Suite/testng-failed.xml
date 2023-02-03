@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" parallel="classes" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="1" parallel="classes" name="Test(failed)">
+    <classes>
+      <class name="com.demoblaze.testlayer.LoginPageTest">
+        <methods>
+          <include name="verifyLoginTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.demoblaze.testlayer.LoginPageTest -->
+      <class name="com.demoblaze.testlayer.BuyFuctionalityTest">
+        <methods>
+          <include name="varify_Buying_FunctionalityWithLogin"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.demoblaze.testlayer.BuyFuctionalityTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

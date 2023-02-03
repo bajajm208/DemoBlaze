@@ -1,0 +1,234 @@
+2023-01-27 15:03:45,806 - DemoBlaze Automation FrameWork -INFO - FrameWork execution start
+2023-01-27 15:04:02,580 - DemoBlaze Automation FrameWork -INFO - Browser launch, Maximize, Waits
+2023-01-27 15:04:02,650 - DemoBlaze Automation FrameWork -INFO - Object creation
+2023-01-27 15:04:03,600 - DemoBlaze Automation FrameWork -INFO - FrameWork execution stopped
+2023-01-27 15:10:28,664 - DemoBlaze Automation FrameWork -INFO - FrameWork execution start
+2023-01-27 15:10:36,006 - DemoBlaze Automation FrameWork -INFO - Browser launch, Maximize, Waits
+2023-01-27 15:10:36,096 - DemoBlaze Automation FrameWork -INFO - Object creation
+2023-01-27 15:10:36,161 - DemoBlaze Automation FrameWork -INFO - Test Case execution start
+2023-01-27 15:10:42,294 - DemoBlaze Automation FrameWork -INFO - User Logged into the demo Blaze Application
+2023-01-27 15:10:42,889 - DemoBlaze Automation FrameWork -INFO - Test Case execution fail
+2023-01-27 15:10:43,179 - DemoBlaze Automation FrameWork -INFO - Browser closed
+2023-01-27 15:10:43,184 - DemoBlaze Automation FrameWork -INFO - FrameWork execution stopped
+2023-01-27 15:10:43,196 - DemoBlaze Automation FrameWork -INFO - FrameWork execution start
+2023-01-27 15:10:46,577 - DemoBlaze Automation FrameWork -INFO - Browser launch, Maximize, Waits
+2023-01-27 15:10:46,579 - DemoBlaze Automation FrameWork -INFO - Object creation
+2023-01-27 15:10:46,590 - DemoBlaze Automation FrameWork -INFO - Test Case execution start
+2023-01-27 15:10:50,908 - DemoBlaze Automation FrameWork -INFO - Test Case execution fail
+2023-01-27 15:10:51,139 - DemoBlaze Automation FrameWork -INFO - Browser closed
+2023-01-27 15:10:54,242 - DemoBlaze Automation FrameWork -INFO - Browser launch, Maximize, Waits
+2023-01-27 15:10:54,250 - DemoBlaze Automation FrameWork -INFO - Object creation
+2023-01-27 15:10:54,262 - DemoBlaze Automation FrameWork -INFO - Test Case execution start
+2023-01-27 15:10:59,562 - DemoBlaze Automation FrameWork -INFO - Product add into the cart
+2023-01-27 15:11:01,986 - DemoBlaze Automation FrameWork -INFO - Product placed successfuly
+2023-01-27 15:11:02,178 - DemoBlaze Automation FrameWork -INFO - Test Case execution success
+2023-01-27 15:11:03,005 - DemoBlaze Automation FrameWork -INFO - Browser closed
+2023-01-27 15:11:03,006 - DemoBlaze Automation FrameWork -INFO - FrameWork execution stopped
+2023-01-27 15:21:12,658 - DemoBlaze Automation FrameWork -INFO - FrameWork execution start
+2023-01-27 15:21:35,147 - DemoBlaze Automation FrameWork -INFO - Browser launch, Maximize, Waits
+2023-01-27 15:21:35,198 - DemoBlaze Automation FrameWork -INFO - Object creation
+2023-01-27 15:21:35,208 - DemoBlaze Automation FrameWork -INFO - Test Case execution start
+2023-01-27 15:21:40,771 - DemoBlaze Automation FrameWork -INFO - User Logged into the demo Blaze Application
+2023-01-27 15:21:41,242 - DemoBlaze Automation FrameWork -INFO - Test Case execution fail
+2023-01-27 15:21:41,517 - DemoBlaze Automation FrameWork -INFO - Browser closed
+2023-01-27 15:21:41,519 - DemoBlaze Automation FrameWork -INFO - FrameWork execution stopped
+2023-01-27 15:21:41,525 - DemoBlaze Automation FrameWork -INFO - FrameWork execution start
+2023-01-27 15:21:45,441 - DemoBlaze Automation FrameWork -INFO - Browser launch, Maximize, Waits
+2023-01-27 15:21:45,444 - DemoBlaze Automation FrameWork -INFO - Object creation
+2023-01-27 15:21:45,446 - DemoBlaze Automation FrameWork -INFO - Test Case execution start
+2023-01-27 15:21:54,385 - DemoBlaze Automation FrameWork -INFO - Product add into the cart
+2023-01-27 15:21:57,001 - DemoBlaze Automation FrameWork -INFO - Product placed successfuly
+2023-01-27 15:21:57,189 - DemoBlaze Automation FrameWork -INFO - Test Case execution success
+2023-01-27 15:21:57,726 - DemoBlaze Automation FrameWork -INFO - Browser closed
+2023-01-27 15:22:00,712 - DemoBlaze Automation FrameWork -INFO - Browser launch, Maximize, Waits
+2023-01-27 15:22:00,718 - DemoBlaze Automation FrameWork -INFO - Object creation
+2023-01-27 15:22:00,720 - DemoBlaze Automation FrameWork -INFO - Test Case execution start
+2023-01-27 15:22:07,063 - DemoBlaze Automation FrameWork -INFO - Product add into the cart
+2023-01-27 15:22:09,190 - DemoBlaze Automation FrameWork -INFO - Product placed successfuly
+2023-01-27 15:22:09,473 - DemoBlaze Automation FrameWork -INFO - Test Case execution success
+2023-01-27 15:22:10,715 - DemoBlaze Automation FrameWork -INFO - Browser closed
+2023-01-27 15:22:10,716 - DemoBlaze Automation FrameWork -INFO - FrameWork execution stopped
+2023-01-27 15:29:13,022 - DemoBlaze Automation FrameWork -INFO - FrameWork execution start
+2023-01-27 15:29:18,744 - DemoBlaze Automation FrameWork -INFO - Browser launch, Maximize, Waits
+2023-01-27 15:29:18,798 - DemoBlaze Automation FrameWork -INFO - Object creation
+2023-01-27 15:29:18,828 - DemoBlaze Automation FrameWork -INFO - Test Case execution start
+2023-01-27 15:29:24,458 - DemoBlaze Automation FrameWork -INFO - User Logged into the demo Blaze Application
+2023-01-27 15:29:24,503 - DemoBlaze Automation FrameWork -INFO - Test Case execution fail
+2023-01-27 15:29:24,834 - DemoBlaze Automation FrameWork -INFO - Takes Screenshot
+2023-01-27 15:29:26,325 - DemoBlaze Automation FrameWork -INFO - Browser closed
+2023-01-27 15:29:26,327 - DemoBlaze Automation FrameWork -INFO - FrameWork execution stopped
+2023-01-27 15:29:26,335 - DemoBlaze Automation FrameWork -INFO - FrameWork execution start
+2023-01-27 15:29:30,112 - DemoBlaze Automation FrameWork -INFO - Browser launch, Maximize, Waits
+2023-01-27 15:29:30,120 - DemoBlaze Automation FrameWork -INFO - Object creation
+2023-01-27 15:29:30,123 - DemoBlaze Automation FrameWork -INFO - Test Case execution start
+2023-01-27 15:29:54,863 - DemoBlaze Automation FrameWork -INFO - Test Case execution fail
+2023-01-27 15:29:55,105 - DemoBlaze Automation FrameWork -INFO - Takes Screenshot
+2023-01-27 15:29:55,485 - DemoBlaze Automation FrameWork -INFO - Browser closed
+2023-01-27 15:30:00,910 - DemoBlaze Automation FrameWork -INFO - Browser launch, Maximize, Waits
+2023-01-27 15:30:00,919 - DemoBlaze Automation FrameWork -INFO - Object creation
+2023-01-27 15:30:00,925 - DemoBlaze Automation FrameWork -INFO - Test Case execution start
+2023-01-27 15:30:05,777 - DemoBlaze Automation FrameWork -INFO - Product add into the cart
+2023-01-27 15:30:08,647 - DemoBlaze Automation FrameWork -INFO - Product placed successfuly
+2023-01-27 15:30:08,956 - DemoBlaze Automation FrameWork -INFO - Test Case execution success
+2023-01-27 15:30:09,842 - DemoBlaze Automation FrameWork -INFO - Browser closed
+2023-01-27 15:30:09,843 - DemoBlaze Automation FrameWork -INFO - FrameWork execution stopped
+2023-01-27 15:31:48,322 - DemoBlaze Automation FrameWork -INFO - FrameWork execution start
+2023-01-27 15:31:53,667 - DemoBlaze Automation FrameWork -INFO - Browser launch, Maximize, Waits
+2023-01-27 15:31:53,741 - DemoBlaze Automation FrameWork -INFO - Object creation
+2023-01-27 15:31:53,772 - DemoBlaze Automation FrameWork -INFO - Test Case execution start
+2023-01-27 15:31:59,843 - DemoBlaze Automation FrameWork -INFO - User Logged into the demo Blaze Application
+2023-01-27 15:32:00,198 - DemoBlaze Automation FrameWork -INFO - Test Case execution fail
+2023-01-27 15:32:01,549 - DemoBlaze Automation FrameWork -INFO - Browser closed
+2023-01-27 15:32:01,552 - DemoBlaze Automation FrameWork -INFO - FrameWork execution stopped
+2023-01-27 15:32:01,560 - DemoBlaze Automation FrameWork -INFO - FrameWork execution start
+2023-01-27 15:32:05,429 - DemoBlaze Automation FrameWork -INFO - Browser launch, Maximize, Waits
+2023-01-27 15:32:05,432 - DemoBlaze Automation FrameWork -INFO - Object creation
+2023-01-27 15:32:05,438 - DemoBlaze Automation FrameWork -INFO - Test Case execution start
+2023-01-27 15:32:14,171 - DemoBlaze Automation FrameWork -INFO - Product add into the cart
+2023-01-27 15:32:16,902 - DemoBlaze Automation FrameWork -INFO - Product placed successfuly
+2023-01-27 15:32:17,109 - DemoBlaze Automation FrameWork -INFO - Test Case execution success
+2023-01-27 15:32:17,441 - DemoBlaze Automation FrameWork -INFO - Browser closed
+2023-01-27 15:32:20,042 - DemoBlaze Automation FrameWork -INFO - Browser launch, Maximize, Waits
+2023-01-27 15:32:20,044 - DemoBlaze Automation FrameWork -INFO - Object creation
+2023-01-27 15:32:20,049 - DemoBlaze Automation FrameWork -INFO - Test Case execution start
+2023-01-27 15:32:25,344 - DemoBlaze Automation FrameWork -INFO - Product add into the cart
+2023-01-27 15:32:28,049 - DemoBlaze Automation FrameWork -INFO - Product placed successfuly
+2023-01-27 15:32:28,229 - DemoBlaze Automation FrameWork -INFO - Test Case execution success
+2023-01-27 15:32:28,624 - DemoBlaze Automation FrameWork -INFO - Browser closed
+2023-01-27 15:32:28,625 - DemoBlaze Automation FrameWork -INFO - FrameWork execution stopped
+2023-01-27 15:33:41,259 - DemoBlaze Automation FrameWork -INFO - FrameWork execution start
+2023-01-27 15:33:50,227 - DemoBlaze Automation FrameWork -INFO - Browser launch, Maximize, Waits
+2023-01-27 15:33:50,274 - DemoBlaze Automation FrameWork -INFO - Object creation
+2023-01-27 15:33:50,292 - DemoBlaze Automation FrameWork -INFO - Test Case execution start
+2023-01-27 15:33:55,919 - DemoBlaze Automation FrameWork -INFO - User Logged into the demo Blaze Application
+2023-01-27 15:34:01,040 - DemoBlaze Automation FrameWork -INFO - Test Case execution fail
+2023-01-27 15:34:01,470 - DemoBlaze Automation FrameWork -INFO - Browser closed
+2023-01-27 15:34:01,472 - DemoBlaze Automation FrameWork -INFO - FrameWork execution stopped
+2023-01-27 15:34:01,482 - DemoBlaze Automation FrameWork -INFO - FrameWork execution start
+2023-01-27 15:34:04,451 - DemoBlaze Automation FrameWork -INFO - Browser launch, Maximize, Waits
+2023-01-27 15:34:04,453 - DemoBlaze Automation FrameWork -INFO - Object creation
+2023-01-27 15:34:04,456 - DemoBlaze Automation FrameWork -INFO - Test Case execution start
+2023-01-27 15:34:13,305 - DemoBlaze Automation FrameWork -INFO - Product add into the cart
+2023-01-27 15:34:15,465 - DemoBlaze Automation FrameWork -INFO - Product placed successfuly
+2023-01-27 15:34:15,704 - DemoBlaze Automation FrameWork -INFO - Test Case execution success
+2023-01-27 15:34:16,667 - DemoBlaze Automation FrameWork -INFO - Browser closed
+2023-01-27 15:34:20,990 - DemoBlaze Automation FrameWork -INFO - Browser launch, Maximize, Waits
+2023-01-27 15:34:21,000 - DemoBlaze Automation FrameWork -INFO - Object creation
+2023-01-27 15:34:21,005 - DemoBlaze Automation FrameWork -INFO - Test Case execution start
+2023-01-27 15:34:27,856 - DemoBlaze Automation FrameWork -INFO - Product add into the cart
+2023-01-27 15:34:29,962 - DemoBlaze Automation FrameWork -INFO - Product placed successfuly
+2023-01-27 15:34:30,157 - DemoBlaze Automation FrameWork -INFO - Test Case execution success
+2023-01-27 15:34:30,566 - DemoBlaze Automation FrameWork -INFO - Browser closed
+2023-01-27 15:34:30,567 - DemoBlaze Automation FrameWork -INFO - FrameWork execution stopped
+2023-01-27 23:22:46,889 - DemoBlaze Automation FrameWork -INFO - FrameWork execution start
+2023-01-27 23:22:55,365 - DemoBlaze Automation FrameWork -INFO - Browser launch, Maximize, Waits
+2023-01-27 23:22:55,423 - DemoBlaze Automation FrameWork -INFO - Object creation
+2023-01-27 23:22:55,439 - DemoBlaze Automation FrameWork -INFO - Test Case execution start
+2023-01-27 23:23:02,609 - DemoBlaze Automation FrameWork -INFO - User Logged into the demo Blaze Application
+2023-01-27 23:23:02,654 - DemoBlaze Automation FrameWork -INFO - Test Case execution success
+2023-01-27 23:23:03,313 - DemoBlaze Automation FrameWork -INFO - Browser closed
+2023-01-27 23:23:03,316 - DemoBlaze Automation FrameWork -INFO - FrameWork execution stopped
+2023-01-27 23:23:19,631 - DemoBlaze Automation FrameWork -INFO - FrameWork execution start
+2023-01-27 23:23:25,752 - DemoBlaze Automation FrameWork -INFO - Browser launch, Maximize, Waits
+2023-01-27 23:23:25,810 - DemoBlaze Automation FrameWork -INFO - Object creation
+2023-01-27 23:23:25,837 - DemoBlaze Automation FrameWork -INFO - Test Case execution start
+2023-01-27 23:23:32,951 - DemoBlaze Automation FrameWork -INFO - User Logged into the demo Blaze Application
+2023-01-27 23:23:32,994 - DemoBlaze Automation FrameWork -INFO - Test Case execution success
+2023-01-27 23:23:34,312 - DemoBlaze Automation FrameWork -INFO - Browser closed
+2023-01-27 23:23:34,314 - DemoBlaze Automation FrameWork -INFO - FrameWork execution stopped
+2023-01-27 23:23:34,323 - DemoBlaze Automation FrameWork -INFO - FrameWork execution start
+2023-01-27 23:23:38,349 - DemoBlaze Automation FrameWork -INFO - Browser launch, Maximize, Waits
+2023-01-27 23:23:38,351 - DemoBlaze Automation FrameWork -INFO - Object creation
+2023-01-27 23:23:38,355 - DemoBlaze Automation FrameWork -INFO - Test Case execution start
+2023-01-27 23:23:47,123 - DemoBlaze Automation FrameWork -INFO - Product add into the cart
+2023-01-27 23:23:49,705 - DemoBlaze Automation FrameWork -INFO - Product placed successfuly
+2023-01-27 23:23:49,897 - DemoBlaze Automation FrameWork -INFO - Test Case execution success
+2023-01-27 23:23:50,418 - DemoBlaze Automation FrameWork -INFO - Browser closed
+2023-01-27 23:23:54,708 - DemoBlaze Automation FrameWork -INFO - Browser launch, Maximize, Waits
+2023-01-27 23:23:54,710 - DemoBlaze Automation FrameWork -INFO - Object creation
+2023-01-27 23:23:54,712 - DemoBlaze Automation FrameWork -INFO - Test Case execution start
+2023-01-27 23:24:00,824 - DemoBlaze Automation FrameWork -INFO - Product add into the cart
+2023-01-27 23:24:03,461 - DemoBlaze Automation FrameWork -INFO - Product placed successfuly
+2023-01-27 23:24:03,720 - DemoBlaze Automation FrameWork -INFO - Test Case execution success
+2023-01-27 23:24:04,437 - DemoBlaze Automation FrameWork -INFO - Browser closed
+2023-01-27 23:24:04,438 - DemoBlaze Automation FrameWork -INFO - FrameWork execution stopped
+2023-01-27 23:55:51,667 - DemoBlaze Automation FrameWork -INFO - FrameWork execution start
+2023-01-27 23:55:56,890 - DemoBlaze Automation FrameWork -INFO - Browser launch, Maximize, Waits
+2023-01-27 23:55:56,962 - DemoBlaze Automation FrameWork -INFO - Object creation
+2023-01-27 23:55:57,000 - DemoBlaze Automation FrameWork -INFO - Test Case execution start
+2023-01-27 23:56:04,170 - DemoBlaze Automation FrameWork -INFO - User Logged into the demo Blaze Application
+2023-01-27 23:56:04,217 - DemoBlaze Automation FrameWork -INFO - Test Case execution success
+2023-01-27 23:56:05,529 - DemoBlaze Automation FrameWork -INFO - Browser closed
+2023-01-27 23:56:05,531 - DemoBlaze Automation FrameWork -INFO - FrameWork execution stopped
+2023-01-27 23:56:05,540 - DemoBlaze Automation FrameWork -INFO - FrameWork execution start
+2023-01-27 23:56:08,968 - DemoBlaze Automation FrameWork -INFO - Browser launch, Maximize, Waits
+2023-01-27 23:56:08,970 - DemoBlaze Automation FrameWork -INFO - Object creation
+2023-01-27 23:56:08,973 - DemoBlaze Automation FrameWork -INFO - Test Case execution start
+2023-01-27 23:56:17,551 - DemoBlaze Automation FrameWork -INFO - Product add into the cart
+2023-01-27 23:56:20,290 - DemoBlaze Automation FrameWork -INFO - Product placed successfuly
+2023-01-27 23:56:20,486 - DemoBlaze Automation FrameWork -INFO - Test Case execution success
+2023-01-27 23:56:20,973 - DemoBlaze Automation FrameWork -INFO - Browser closed
+2023-01-27 23:56:25,929 - DemoBlaze Automation FrameWork -INFO - Browser launch, Maximize, Waits
+2023-01-27 23:56:25,936 - DemoBlaze Automation FrameWork -INFO - Object creation
+2023-01-27 23:56:25,938 - DemoBlaze Automation FrameWork -INFO - Test Case execution start
+2023-01-27 23:56:30,526 - DemoBlaze Automation FrameWork -INFO - Product add into the cart
+2023-01-27 23:56:34,096 - DemoBlaze Automation FrameWork -INFO - Product placed successfuly
+2023-01-27 23:56:35,571 - DemoBlaze Automation FrameWork -INFO - Test Case execution success
+2023-01-27 23:56:35,963 - DemoBlaze Automation FrameWork -INFO - Browser closed
+2023-01-27 23:56:35,964 - DemoBlaze Automation FrameWork -INFO - FrameWork execution stopped
+2023-01-30 23:51:58,407 - DemoBlaze Automation FrameWork -INFO - FrameWork execution start
+2023-01-30 23:52:08,345 - DemoBlaze Automation FrameWork -INFO - Browser launch, Maximize, Waits
+2023-01-30 23:52:08,389 - DemoBlaze Automation FrameWork -INFO - Object creation
+2023-01-30 23:52:08,404 - DemoBlaze Automation FrameWork -INFO - Test Case execution start
+2023-01-30 23:52:15,306 - DemoBlaze Automation FrameWork -INFO - User Logged into the demo Blaze Application
+2023-01-30 23:52:15,361 - DemoBlaze Automation FrameWork -INFO - Test Case execution success
+2023-01-30 23:52:16,118 - DemoBlaze Automation FrameWork -INFO - Browser closed
+2023-01-30 23:52:16,123 - DemoBlaze Automation FrameWork -INFO - FrameWork execution stopped
+2023-01-30 23:52:16,198 - DemoBlaze Automation FrameWork -INFO - FrameWork execution start
+2023-01-30 23:52:24,635 - DemoBlaze Automation FrameWork -INFO - Browser launch, Maximize, Waits
+2023-01-30 23:52:24,637 - DemoBlaze Automation FrameWork -INFO - Object creation
+2023-01-30 23:52:24,639 - DemoBlaze Automation FrameWork -INFO - Test Case execution start
+2023-01-30 23:52:30,638 - DemoBlaze Automation FrameWork -INFO - User Logged into the demo Blaze Application
+2023-01-30 23:52:30,683 - DemoBlaze Automation FrameWork -INFO - Test Case execution success
+2023-01-30 23:52:32,176 - DemoBlaze Automation FrameWork -INFO - Browser closed
+2023-01-30 23:52:32,178 - DemoBlaze Automation FrameWork -INFO - FrameWork execution stopped
+2023-01-30 23:53:20,472 - DemoBlaze Automation FrameWork -INFO - FrameWork execution start
+2023-01-30 23:53:26,264 - DemoBlaze Automation FrameWork -INFO - Browser launch, Maximize, Waits
+2023-01-30 23:53:26,318 - DemoBlaze Automation FrameWork -INFO - Object creation
+2023-01-30 23:53:26,352 - DemoBlaze Automation FrameWork -INFO - Test Case execution start
+2023-01-30 23:53:33,344 - DemoBlaze Automation FrameWork -INFO - User Logged into the demo Blaze Application
+2023-01-30 23:53:33,395 - DemoBlaze Automation FrameWork -INFO - Test Case execution success
+2023-01-30 23:53:34,732 - DemoBlaze Automation FrameWork -INFO - Browser closed
+2023-01-30 23:53:34,734 - DemoBlaze Automation FrameWork -INFO - FrameWork execution stopped
+2023-01-30 23:53:34,765 - DemoBlaze Automation FrameWork -INFO - FrameWork execution start
+2023-01-30 23:53:42,608 - DemoBlaze Automation FrameWork -INFO - Browser launch, Maximize, Waits
+2023-01-30 23:53:42,611 - DemoBlaze Automation FrameWork -INFO - Object creation
+2023-01-30 23:53:42,614 - DemoBlaze Automation FrameWork -INFO - Test Case execution start
+2023-01-30 23:53:48,606 - DemoBlaze Automation FrameWork -INFO - User Logged into the demo Blaze Application
+2023-01-30 23:53:48,689 - DemoBlaze Automation FrameWork -INFO - Test Case execution success
+2023-01-30 23:53:49,994 - DemoBlaze Automation FrameWork -INFO - Browser closed
+2023-01-30 23:53:49,996 - DemoBlaze Automation FrameWork -INFO - FrameWork execution stopped
+2023-01-30 23:55:34,130 - DemoBlaze Automation FrameWork -INFO - FrameWork execution start
+2023-01-30 23:55:39,024 - DemoBlaze Automation FrameWork -INFO - Browser launch, Maximize, Waits
+2023-01-30 23:55:39,072 - DemoBlaze Automation FrameWork -INFO - Object creation
+2023-01-30 23:55:39,089 - DemoBlaze Automation FrameWork -INFO - Test Case execution start
+2023-01-30 23:55:46,379 - DemoBlaze Automation FrameWork -INFO - User Logged into the demo Blaze Application
+2023-01-30 23:55:46,424 - DemoBlaze Automation FrameWork -INFO - Test Case execution success
+2023-01-30 23:55:47,799 - DemoBlaze Automation FrameWork -INFO - Browser closed
+2023-01-30 23:55:47,801 - DemoBlaze Automation FrameWork -INFO - FrameWork execution stopped
+2023-01-30 23:55:47,829 - DemoBlaze Automation FrameWork -INFO - FrameWork execution start
+2023-01-30 23:55:54,839 - DemoBlaze Automation FrameWork -INFO - Browser launch, Maximize, Waits
+2023-01-30 23:55:54,841 - DemoBlaze Automation FrameWork -INFO - Object creation
+2023-01-30 23:55:54,843 - DemoBlaze Automation FrameWork -INFO - Test Case execution start
+2023-01-30 23:56:00,864 - DemoBlaze Automation FrameWork -INFO - User Logged into the demo Blaze Application
+2023-01-30 23:56:00,945 - DemoBlaze Automation FrameWork -INFO - Test Case execution success
+2023-01-30 23:56:02,413 - DemoBlaze Automation FrameWork -INFO - Browser closed
+2023-01-30 23:56:02,415 - DemoBlaze Automation FrameWork -INFO - FrameWork execution stopped
+2023-01-30 23:58:51,133 - DemoBlaze Automation FrameWork -INFO - FrameWork execution start
+2023-01-30 23:58:56,444 - DemoBlaze Automation FrameWork -INFO - Browser launch, Maximize, Waits
+2023-01-30 23:58:56,584 - DemoBlaze Automation FrameWork -INFO - Object creation
+2023-01-30 23:58:56,617 - DemoBlaze Automation FrameWork -INFO - Test Case execution start
+2023-01-30 23:58:58,726 - DemoBlaze Automation FrameWork -INFO - FrameWork execution stopped
+2023-01-30 23:58:58,790 - DemoBlaze Automation FrameWork -INFO - FrameWork execution start
+2023-01-30 23:59:03,654 - DemoBlaze Automation FrameWork -INFO - Test Case execution start
+2023-01-30 23:59:03,658 - DemoBlaze Automation FrameWork -INFO - Test Case execution skip
